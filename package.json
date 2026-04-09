@@ -1,4 +1,8 @@
+
+
+
 {
+  "homepage": ".",
   "name": "nexlora-prime",
   "version": "1.0.0",
   "private": true,
